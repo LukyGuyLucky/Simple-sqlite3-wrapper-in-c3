@@ -1,3 +1,5 @@
+// original from https://github.com/c3lang/vendor/tree/main/libraries/sqlite3.c3l
+// added a couple of function headers on.
 // sqlite3.c3i
 // Binding originally created by Louis @ https://github.com/louis77
 
